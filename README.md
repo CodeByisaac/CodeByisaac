@@ -6,5 +6,7 @@
 📖 Some other Stuff about me
 - 🇨🇦 Living in Ontario, Canada
 - 💻 I'm currently doing *Graphics Designing* for Potter's House Kitchener while supporting the media team
-- 📚 I'm currently in my Second year of *Computer Science*
+- 📚 I'm currently in my Third year of *Computer Science*
 - ⚙️ Some of the programming languages I've been using recently: *Java*, *Python*, *Java Script*, *VBA*
+- Frameworks/IDEs: Git, HTML, Docker, WordPress, React, Node.js, Heroku, Express.js, VBA Editor, Eclipse, Visual 
+Studio Code, Flask
