@@ -1,7 +1,8 @@
 # Hi, I'm Victor Isaac Adeyeye 👋
 
 #### Backend and Systems Development
-#### Passionate about building **high performance, secure, and scalable systems**. <br> 
+💻 Passionate about building **high performance, secure, and scalable systems**. <br>
+📅 Expected Graduation: May 2026 
 
 ##### Skills
 - C++, Java, Python, C, SQL <br>
