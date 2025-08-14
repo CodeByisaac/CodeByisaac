@@ -6,7 +6,7 @@
 
 ##### Skills
 - C++, Java, Python, C, SQL <br>
-- REST APIs,  Multithreading, POSIX Threads, Linux, CMake, SpringBoot, Docker, AWS, CI/CD <br>
+- REST APIs,  Multithreading, POSIX Threads, Linux, CMake, Spring Boot, Docker, AWS, CI/CD <br>
 - PostgreSQL, MySQL, Redis<br>  
 - Git, Maven, Swagger/OpenAPI, Google Test, JUnit<br>
 - Algorithms and Data Structures,  Low Level Design <br> 
