@@ -5,8 +5,8 @@
 📅 Expected Graduation: May 2026 
 
 ##### Skills
-- C++, Java, Python, C, SQL <br>
+- C++, Java, Python, C, SQL, JavaScript, HTML/CSS <br>
 - REST APIs,  Multithreading, POSIX Threads, Linux, CMake, Spring Boot, Docker, AWS, CI/CD<br>
 - PostgreSQL, MySQL, Redis<br>  
 - Git, Maven, Swagger/OpenAPI, Google Test, JUnit<br>
-- Algorithms and Data Structures,  Low Level Design <br> 
+- Algorithms and Data Structures,  problem solving, Low Level Design <br> 
