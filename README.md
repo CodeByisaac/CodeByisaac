@@ -9,4 +9,4 @@
 - REST API Design, Spring Boot, FastAPI, Node.js, Multithreading, JWT Auth, CI/CD<br>
 - PostgreSQL, MySQL, Redis<br>  
 - Docker, AWS (EC2, S3), Git, Linux, CMake, Maven, Unit Testing (JUnit, GoogleTest, Mockito)<br>
-- Algorithms and Data Structures, problem solving, Low Level Design <br> 
+- Algorithms and Data Structures, problem solving, Troubleshooting <br> 
