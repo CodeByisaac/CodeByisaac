@@ -1,7 +1,7 @@
 # Hi, I'm Victor Isaac Adeyeye 👋
 
 #### Backend and Systems Development + Applied ML/AI
-💻 Passionate about building **high performance, secure, and scalable systems**. <br>
+💻 Passionate about working on **high performance, secure, and scalable systems**. <br>
 📅 Expected Graduation: May 2026 
 
 ##### Skills
