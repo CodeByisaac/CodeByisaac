@@ -6,8 +6,8 @@
 
 ##### Skills
 - C++, Python, Java, SQL, JavaScript, TypeScript<br>
-- REST API Design, Spring Boot, FastAPI, Node.js, JWT Auth, CI/CD<br>
+- REST API Design, Spring Boot, FastAPI, Node.js <br>
 - OpenAI API, Pandas, Scikit-learn, Pydantic, Basic Machine Learning
-- PostgreSQL, MySQL, Redis<br>  
-- Docker, AWS (EC2, S3), Git, Linux, Maven, Unit Testing (JUnit, GoogleTest, Mockito) Jupyter Notebook, Google Colab <br>
+- PostgreSQL, MySQL, Redis<br>
+- Docker, AWS (EC2, S3), Git, Linux, Maven, Unit Testing (JUnit, GoogleTest, Mockito) <br>
 - Algorithms and Data Structures, problem solving, Troubleshooting <br> 
