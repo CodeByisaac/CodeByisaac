@@ -1,7 +1,7 @@
 # Hi, I'm Victor Isaac Adeyeye 👋
 
 #### Backend and API Development + Applied ML/AI
-💻 Passionate about building **high performance, secure, and scalable systems** using Python (FastAPI), Java (Spring Boot), and modern cloud technologies. <br>
+💻 Passionate about building **high performance, secure, and scalable systems** using Python (FastAPI), Java (Spring Boot), and modern cloud technologies (AWS). <br>
 📅 Expected Graduation: May 2026 
 
 ##### Skills
