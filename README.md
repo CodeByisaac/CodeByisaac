@@ -1,7 +1,7 @@
 #' Hi, I'm Victor Isaac Adeyeye 👋
 
 #### Backend and API Development + Applied ML/AI
-💻 Passionate about building **high performance, secure, and scalable systems** using C++, Java, Python and modern cloud technologies (AWS, Docker, PostgreSQL). <br>
+💻 Passionate about building **high performance, secure, and scalable systems** using C++, Java, Python, TypeScript and modern cloud technologies (AWS, Docker, PostgreSQL). <br>
 📅 Expected Graduation: May 2026 
 
 ##### Skills
