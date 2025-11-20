@@ -1,5 +1,5 @@
 #### Backend and Systems Development + Applied ML/AI
-💻 Passionate about building **high performance, secure, and scalable systems**. <br>
+💻 I like solving abstract problems and building **secure, scalable software systems**. <br>
 📅 Expected Graduation: May 2026 
 
 ##### Skills
