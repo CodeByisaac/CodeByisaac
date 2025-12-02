@@ -4,7 +4,6 @@
 
 ##### Skills
 - C++, Java, Python, C, SQL, JavaScript<br>
-- REST API Design, React, Node.js, FastAPI, Spring Boot<br>
-- OpenAI API, Pandas, Scikit-learn, Pydantic, Basic Machine Learning <br>
+- REST API Design, FastAPI, Spring Boot, React, Node.js,<br>
 - Docker, AWS (EC2, S3), Git, Linux, PostgreSQL, Redis, SQLAlchemy ORM <br>
 - Algorithms and Data Structures, problem solving, Troubleshooting <br> 
