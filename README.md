@@ -1,9 +1,10 @@
 #### Backend and Systems Development + Applied ML/AI
-💻 I like solving abstract problems and building **secure, scalable software systems**. <br>
+💻 I like solving abstract problems and backend/low-level software development <br>
 📅 Expected Graduation: May 2026 
 
 ##### Skills
 - C++, C, Java, Python, SQL, JavaScript<br>
-- REST API Design, FastAPI, Spring Boot, React, Node.js,<br>
-- Docker, AWS (EC2, S3), Git, Linux, PostgreSQL, Redis, SQLAlchemy ORM <br>
-- Algorithms and Data Structures, problem solving, Troubleshooting <br> 
+- REST API Design, Spring Boot, PostgreSQL, Redis<br>
+- POSIX Thread, Memory Management, Linux, Shell Scripting<br>
+- Docker, AWS (EC2, S3), GDB, Valgrind, CMake<br>
+- Algorithms and Data Structures, problem solving, Systems Programming <br> 
