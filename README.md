@@ -1,5 +1,5 @@
 #### Backend and Systems Development + Applied ML/AI
-💻 I like solving abstract problems and backend/low-level software development <br>
+💻 I like solving abstract problems and backend/systems software development <br>
 📅 Expected Graduation: May 2026 
 
 ##### Skills
