@@ -3,8 +3,8 @@
 📅 Expected Graduation: May 2026 
 
 ##### Skills
-- C++, C, Go, Java, Python, SQL, JavaScript<br>
-- REST API Design, Spring Boot, PostgreSQL, Redis<br>
+- C++, C, Java, Python, SQL, TypeScript/JavaScript<br>
+- REST API Design, Node.js, Spring Boot, PostgreSQL, Redis<br>
 - POSIX Thread, Memory Management, Linux, Shell Scripting<br>
 - Docker, AWS (EC2, S3), GDB, Valgrind, CMake<br>
 - Algorithms and Data Structures, problem solving, Systems Programming <br> 
