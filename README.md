@@ -1,6 +1,6 @@
 #### Backend and Systems Development + Applied ML/AI
 💻 I like solving abstract problems and backend/systems software development. <br>
-🧠 Strong knowledge in C++, multithreaded programming, algorithms, and data structures. <br>
+🧠 Strong knowledge of C++, multithreaded programming, algorithms, and data structures. <br>
 
 ##### Skills
 - C++, C, Java, Python, SQL, JavaScript<br>
