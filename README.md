@@ -1,10 +1,9 @@
 #### Backend and Systems Development + Applied ML/AI
-💻 I like solving abstract problems and backend/systems software development <br>
-📅 Expected Graduation: May 2026 
+💻 I like solving abstract problems and backend/systems software development. <br>
+🧠 Strong knowledge in C++, multithreaded programming, algorithms, and data structures. <br>
 
 ##### Skills
-- C++, C, Java, Python, SQL, TypeScript/JavaScript<br>
-- REST API Design, Node.js, Spring Boot, PostgreSQL, Redis<br>
-- POSIX Thread, Memory Management, Linux, Shell Scripting<br>
+- C++, C, Java, Python, SQL, JavaScript<br>
+- Multithreading, Concurrent Programming, TCP/IP, Linux, Async I/O, Memory Management
+- REST API Design, FastAPI, Spring Boot, PostgreSQL, Redis<br>
 - Docker, AWS (EC2, S3), GDB, Valgrind, CMake<br>
-- Algorithms and Data Structures, problem solving, Systems Programming <br> 
