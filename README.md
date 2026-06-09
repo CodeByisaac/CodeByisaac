@@ -1,4 +1,5 @@
 #### Backend and Systems Development + Applied ML/AI
+💻 I like solving technical problems and low latency software development. <br>
 🧠 Strong knowledge of C++, Java, multithreaded programming, algorithms, and data structures. <br>
 
 ##### Skills
