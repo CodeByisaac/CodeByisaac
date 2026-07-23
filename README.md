@@ -4,6 +4,6 @@
 
 ##### Skills
 - C++, Java, Python, SQL, JavaScript<br>
-- Multithreading, TCP/IP, Linux, Async I/O, Memory Management
 - REST API Design, Spring Boot, FastAPI, PostgreSQL, Redis<br>
-- Docker, AWS (EC2, S3), Git, GDB, Valgrind, CMake<br>
+- Multithreading, TCP/IP, Linux, Async I/O, Memory Management
+- Docker, AWS (EC2, S3), Git, Junit, Maven, GDB, Valgrind, CMake<br>
